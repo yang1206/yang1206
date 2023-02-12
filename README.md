@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## Visitors Count
+
+![gh_visitors](https://profile-counter.glitch.me/yang1206/count.svg)
+
 <!--
 **yang1206/yang1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
