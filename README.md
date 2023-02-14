@@ -4,6 +4,10 @@
 
 ![gh_visitors](https://profile-counter.glitch.me/yang1206/count.svg)
 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=yang1206&show_icons=true&theme=tokyonight)
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=yang1206&layout=compact&theme=tokyonight)
+
 <!--
 **yang1206/yang1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
