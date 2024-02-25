@@ -1,37 +1,30 @@
-### Hi there 👋
+# yang1206 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=yang1206.readme)  [![wakatime](https://wakatime.com/badge/user/88f3da5b-2e68-4cda-af3c-0ddd82cd648a.svg)](https://wakatime.com/@88f3da5b-2e68-4cda-af3c-0ddd82cd648a)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Next-black?style=flat&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Nest.js-00ADD8?style=flat&logo=nest.js&logoColor=white">
-  <img src="https://img.shields.io/badge/wechat_miniprogram-09b955?style=flat&logo=wechat&logoColor=white">
-  <img src="https://img.shields.io/badge/-less-bf608e?style=flat&logo=less&logoColor=white">
-</div>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yang1206&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yang1206&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=yang1206&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 
-## Visitors Count
 
-![gh_visitors](https://profile-counter.glitch.me/yang1206/count.svg)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yang1206&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=yang1206&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yang1206&show_icons=true" align=right />
+</picture>
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=yang1206&show_icons=true&theme=tokyonight)
+ ![gh_visitors](https://profile-counter.glitch.me/yang1206/count.svg)
+
+
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=yang1206&layout=compact&theme=tokyonight)
 
 
-<!--
-**yang1206/yang1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
