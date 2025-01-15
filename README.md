@@ -7,24 +7,5 @@
 </picture>
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yang1206&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yang1206&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yang1206&show_icons=true" align=right />
-</picture>
-
- ![gh_visitors](https://profile-counter.glitch.me/yang1206/count.svg)
-
-
-
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=yang1206&layout=compact&theme=tokyonight)
-
-
 
 
